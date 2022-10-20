@@ -1,0 +1,78 @@
+        body    
+        {
+            
+        }
+        h1 {
+            color: aliceblue;
+            text-align: center;
+            font-family: verdana;
+        }
+        h2
+        {
+            color: aliceblue;
+            text-align: center;
+            font-family: verdana;
+        }
+        p{
+            color: aliceblue;
+            text-align: center;
+            font-family: verdana;
+            
+        }
+        a
+        {
+            
+            color: aliceblue;
+            text-align: center;
+            font-family: verdana;
+        }
+        a:visited {
+        color: burlywood;
+        background-color: transparent;
+        text-decoration: none;
+        }
+        a:hover {
+        color: red;
+        background-color: transparent;
+        text-decoration: underline;
+        }
+        a:active {
+        color: yellow;
+        background-color: transparent;
+        text-decoration: underline;
+        }
+        .center
+        {
+            width: 300px;
+            margin: 0 auto;
+        }
+        .boton
+        {
+            width: 900px;
+            margin: 0 auto;
+        }
+        .borde {
+            
+            border: 0px solid black;
+            margin: 50px;
+            background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-ink-landscape-painting-chinese-style-mountain-peak-image_47646.jpg") ;
+            background-size: 70rem;
+            
+        }
+        .enlaces{
+            
+        }
+        .encabezado {
+            
+
+            border: 20px solid black;
+            background-image: url("https://images.unsplash.com/photo-1518141532615-4305c9f914c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80");
+            
+        }
+        .cafe {
+
+            border: 20px solid brown;
+            background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg9mZOk6Fnwce7rq540aMoVVQpLM2ULKlAxOvBGrHVBQexsMQMvpsDhXEomm36RZz5B28&usqp=CAU");
+            
+        }
+        
